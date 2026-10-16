@@ -1,0 +1,59 @@
+h1 {
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+  color: Black;
+  text-align: center;
+}
+
+.buttons {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+}
+
+.showquantity {
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.addtocart {
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.addtwo{
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.addthree {
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.resetcart {
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
